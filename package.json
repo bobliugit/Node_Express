@@ -1,0 +1,14 @@
+{
+    "name":"node_express",
+    "version":"1.0.0",
+    "description":"Node.js on Docker",
+    "author":"Bob Liu",
+    "main":"server.js",
+    "private":true,
+    "scripts":{
+        "start":"node server.js"
+    },
+    "dependencies":{
+        "express":"^4.16.1"
+    }
+}
